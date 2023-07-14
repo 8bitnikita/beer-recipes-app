@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/beer-recipes-app/static/css/main.dfe0a0b4.css",
-    "main.js": "/beer-recipes-app/static/js/main.7677b10c.js",
+    "main.js": "/beer-recipes-app/static/js/main.de47967a.js",
     "static/js/787.f74762de.chunk.js": "/beer-recipes-app/static/js/787.f74762de.chunk.js",
     "index.html": "/beer-recipes-app/index.html",
     "main.dfe0a0b4.css.map": "/beer-recipes-app/static/css/main.dfe0a0b4.css.map",
-    "main.7677b10c.js.map": "/beer-recipes-app/static/js/main.7677b10c.js.map",
+    "main.de47967a.js.map": "/beer-recipes-app/static/js/main.de47967a.js.map",
     "787.f74762de.chunk.js.map": "/beer-recipes-app/static/js/787.f74762de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfe0a0b4.css",
-    "static/js/main.7677b10c.js"
+    "static/js/main.de47967a.js"
   ]
 }
