@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/beer-recipe-app/static/css/main.dfe0a0b4.css",
-    "main.js": "/beer-recipe-app/static/js/main.b99af78d.js",
-    "static/js/787.f74762de.chunk.js": "/beer-recipe-app/static/js/787.f74762de.chunk.js",
-    "index.html": "/beer-recipe-app/index.html",
-    "main.dfe0a0b4.css.map": "/beer-recipe-app/static/css/main.dfe0a0b4.css.map",
-    "main.b99af78d.js.map": "/beer-recipe-app/static/js/main.b99af78d.js.map",
-    "787.f74762de.chunk.js.map": "/beer-recipe-app/static/js/787.f74762de.chunk.js.map"
+    "main.css": "/beer-recipes-app/static/css/main.dfe0a0b4.css",
+    "main.js": "/beer-recipes-app/static/js/main.7677b10c.js",
+    "static/js/787.f74762de.chunk.js": "/beer-recipes-app/static/js/787.f74762de.chunk.js",
+    "index.html": "/beer-recipes-app/index.html",
+    "main.dfe0a0b4.css.map": "/beer-recipes-app/static/css/main.dfe0a0b4.css.map",
+    "main.7677b10c.js.map": "/beer-recipes-app/static/js/main.7677b10c.js.map",
+    "787.f74762de.chunk.js.map": "/beer-recipes-app/static/js/787.f74762de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfe0a0b4.css",
-    "static/js/main.b99af78d.js"
+    "static/js/main.7677b10c.js"
   ]
 }
